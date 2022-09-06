@@ -1,8 +1,8 @@
 {
-    "ownerNumber": "6281215626270@s.whatsapp.net", 
-    "ownerName": "Denara Bot", 
-    "botName": "Ocho-Bot",
-    "footer": "© OCHOBOT | 2022", 
+    "ownerNumber": "6285693650294@s.whatsapp.net", 
+    "ownerName": "s.id/WahyudiID", 
+    "botName": "YudsBotz-Md",
+    "footer": "© YudsBotz-Md | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
@@ -12,6 +12,6 @@
     "gamewaktu": 90,
     "sticker": {
         "packname": "© Store",
-        "author": "Denara Bot"
+        "author": "s.id/WahyudiID"
     }
 }
